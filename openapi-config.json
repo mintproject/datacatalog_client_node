@@ -1,0 +1,6 @@
+{
+    "npmRepository": "mintproject",
+    "npmName": "@mintproject/datacatalog_client_node",
+    "npmVersion": "0.0.1",
+    "supportsES6": true
+}
